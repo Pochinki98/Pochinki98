@@ -4,4 +4,4 @@
 <p><strong>Let's say farewell to yesterday then greet tomorrow together 😋 !</strong></p>
 <p><span style="text-decoration: line-through;">Below is maybe my favorite song.</span></p>
 <br>
-<img src="https://i1.hdslb.com/bfs/archive/bf4ee023c109596bea44b57cb31348b766d8b828.jpg" alt="" width="1000" height="500" />
+<iframe src="//player.bilibili.com/player.html?aid=60016166&cid=104514776&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
