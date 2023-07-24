@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello/你好/Bonjour/Ciao/Hola/こんにちは/안녕하세요/Salam sejahtera ！
+
+I'm a little noobie from China who is trapped in education and living.
+
+Though my life is tough and rough do I choose to trust that there's definitely something worth exploring & trying.
+
+Below is my favorite song.
