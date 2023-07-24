@@ -3,3 +3,5 @@
 <p>Though my life is tough &amp; rough 😢 do I choose to trust that there's definitely something worth exploring &amp; trying 🙂 .</p>
 <p><strong>Let's say farewell to yesterday then greet tomorrow together 😋 !</strong></p>
 <p><span style="text-decoration: line-through;">Below is maybe my favorite song.</span></p>
+<br>
+<img src="https://i1.hdslb.com/bfs/archive/bf4ee023c109596bea44b57cb31348b766d8b828.jpg" alt="" width="1000" height="500" />
